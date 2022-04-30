@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_string_callbackk", "2_string_callbackk\2_string_callbackk.csproj", "{626FFD82-AEED-49AD-AE6B-6B6F7447E718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_3buttons", "1_3buttons\1_3buttons.csproj", "{53E2BAE9-19A8-44E4-8194-1B114206C69C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626FFD82-AEED-49AD-AE6B-6B6F7447E718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626FFD82-AEED-49AD-AE6B-6B6F7447E718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626FFD82-AEED-49AD-AE6B-6B6F7447E718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626FFD82-AEED-49AD-AE6B-6B6F7447E718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E2BAE9-19A8-44E4-8194-1B114206C69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E2BAE9-19A8-44E4-8194-1B114206C69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E2BAE9-19A8-44E4-8194-1B114206C69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E2BAE9-19A8-44E4-8194-1B114206C69C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B543CB-110D-441C-AA19-4AE498B66B19}
+	EndGlobalSection
+EndGlobal
